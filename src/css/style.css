@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
  #skill {
-  background: linear-gradient(135deg, #1a1a1a, #333);
+  /*background: linear-gradient(135deg, #1a1a1a, #333);*/
   color: #fff;
   position: relative;
   overflow: hidden;
