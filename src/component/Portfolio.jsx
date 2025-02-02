@@ -57,7 +57,7 @@ const Portfolio = () => {
                             <img className="img-fluid w-100 rounded-circle shadow-sm" src={profile} alt="bilal" />
                         </div>
                         <div className="col-lg-7 text-center text-lg-left">
-                            <h3 className="text-white font-weight-normal mb-3">I'm</h3>
+                            <h3 className="text-white font-weight-normal mb-3">HI I'm</h3>
                             <h1 className="display-3 text-uppercase text-primary mb-2" style={{ WebkitTextStroke: '2px #ffffff' }}>Bilal Ebrahim</h1>
                             <h1 className="typed-text-output d-inline font-weight-lighter text-white"></h1>
                             
