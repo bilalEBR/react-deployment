@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/style.css'; // Import your CSS file here
-import profile from '../img/bilal2.jpg';
+import profile from '../img/bilal3.jpg';
 
 
 
